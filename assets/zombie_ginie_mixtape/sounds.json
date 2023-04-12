@@ -1,0 +1,12 @@
+{
+  "zombie_ginie": {
+    "category": "music",
+    "subtitle": "subtitles.zombie_ginie",
+    "sounds": [
+      {
+        "name": "zombie_ginie_mixtape:piosenki_minecraft_zombie_ginie_",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "experience": 3,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "zombie_ginie_mixtape:compressedrottenflesh"
+  },
+  "result": "zombie_ginie_mixtape:zombie_ginie"
+}
